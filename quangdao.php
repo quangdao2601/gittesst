@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,10 +10,10 @@
     <a href="">Tôi là Quang Đạo</a>
 </body>
 </html>
-=======
+
 <?php 
 echo "123";
 for( $i = 0 ;$i<10;$i++){
   echo $i;
   }
->>>>>>> 20ef24abcbc9b984658395a37b25166215baa46a
+?>
